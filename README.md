@@ -10,7 +10,7 @@ Third-year bachelor in software engineering [**ITIS, Kazan Federal University**]
 ## 📧 Contact
 Email me to get my CV
 
-## Work
+## 💻 Work
 I am looking for a job or internship. Contact me for offers 📝
 
 ## 💪 Skills

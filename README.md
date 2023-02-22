@@ -3,7 +3,7 @@
 Software Engineer student at ITIS KFU(https://kpfu.ru/itis/). Learn, Practice, Improve ✨
 
 ## 🎓 Education
-Third-year bachelor in software engineering [**ITIS, Kazan Federal University**](https://kpfu.ru/itis/)
+Third-year bachelor in software engineering [**ITIS Kazan Federal University**](https://kpfu.ru/itis/)
 
 ## 💪 Skills
 

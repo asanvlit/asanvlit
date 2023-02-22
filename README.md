@@ -40,4 +40,3 @@ My platform for artists [**Yartone**](https://github.com/asanvlit/Yartone)
 * In love with programming and art 🔮
 * I graduated from high school with a gold medal and am doing great at uni 🥇
 * I am fond of digital and traditional drawing 🖌️
-* 

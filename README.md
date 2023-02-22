@@ -10,6 +10,9 @@ Third-year bachelor in software engineering [**ITIS, Kazan Federal University**]
 ## 📧 Contact
 Email me to get my CV
 
+## Work
+I am looking for a job or internship. Contact me for offers 📝
+
 ## 💪 Skills
 ### Main skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

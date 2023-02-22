@@ -5,6 +5,9 @@ I am Angelina Savincheva, Software Engineer student at [**ITIS KFU**](https://kp
 ## 🎓 Education
 Third-year bachelor in software engineering [**ITIS, Kazan Federal University**](https://kpfu.ru/itis/)
 
+## 📧 Contact
+[**Email**](inf1angelina@gmail.com) me to get my CV
+
 ## 💪 Skills
 ### Main skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -33,6 +36,8 @@ Third-year bachelor in software engineering [**ITIS, Kazan Federal University**]
 ## 🐱 Pet-projects
 My platform for artists [**Yartone**](https://github.com/asanvlit/Yartone)
 
-## 📧 Contact
-
-[**Email**](inf1angelina@gmail.com) me to get my CV
+## 🌼 More about me
+* In love with programming and art 🔮
+* I graduated from high school with a gold medal and am doing great at uni 🥇
+* I am fond of digital and traditional drawing 🖌️
+* 

@@ -6,7 +6,7 @@ I am Angelina Savincheva, Software Engineer student at [**ITIS KFU**](https://kp
 Third-year bachelor in software engineering [**ITIS, Kazan Federal University**](https://kpfu.ru/itis/)
 
 ## 📧 Contact
-[**Email**](inf1angelina@gmail.com) me to get my CV
+Email me to get my CV
 
 ## 💪 Skills
 ### Main skills:

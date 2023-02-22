@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hi%20there!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descAlign=50)
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg) -->
 ## 💎 About me
 I am Angelina Savincheva, Software Engineer student at [**ITIS KFU**](https://kpfu.ru/itis/). Learn, Practice, Improve ✨
 
@@ -40,3 +42,8 @@ My platform for artists [**Yartone**](https://github.com/asanvlit/Yartone)
 * In love with programming and art 🔮
 * I graduated from high school with a gold medal and am doing great at uni 🥇
 * I am fond of digital and traditional drawing 🖌️
+
+## 📊 Github statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanvlit&layout=compact&theme=buefy)](https://github.com/asanvlit)
+

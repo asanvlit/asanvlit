@@ -49,7 +49,7 @@ My platform for artists [**Yartone**](https://github.com/asanvlit/Yartone)
 * I graduated from high school with a gold medal and am doing great at uni 🥇
 * I am fond of digital and traditional drawing 🖌️
 
-## 📊 Github statistics
+<!-- ## 📊 Github statistics -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanvlit&layout=compact&theme=buefy)](https://github.com/asanvlit)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanvlit&layout=compact&theme=buefy)](https://github.com/asanvlit) -->
 
